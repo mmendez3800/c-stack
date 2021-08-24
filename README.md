@@ -1,7 +1,7 @@
 # C Stack
 This project implements a stack data structure using C and allows the user to perform multiple actions
 
-## General
+## General Info
 When the user starts the project, they will be able to perform the below operations through the terminal. To close the program, the user will enter `^D` in terminal.
  * a - allocate memory to the stack
  * d - deallocate memory to the stack
