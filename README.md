@@ -26,3 +26,17 @@ After cloning or forking the repository, you can run the program through the com
    - `gcc driver.c stack.c mylib.c`
 3. Run the executable created
    - `./a.out`
+
+## Output
+
+### Allocate/Deallocate
+![Output of allocate and deallocate operations](images/stack_1.png)
+
+### Push/Top/Pop
+![Output of push, top, and pop operations](images/stack_2.png)
+
+### IsEmpty/IsFull/Empty
+![Output of is empty, is full, and empty operations](images/stack_3.png)
+
+### Display Elements
+![Output of displaying elements in stack operations](images/stack_4.png)
